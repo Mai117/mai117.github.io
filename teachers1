@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T06:38:54.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.2" etag="tRKVlQoT5kp-Av7Vo8Ly" type="github"><diagram id="F-wrBTPC094vKxviMcZZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-13T06:50:07.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="RQc0HK0Og10JOl1g_KDk" version="13.6.2" type="github">
+  <diagram id="F-wrBTPC094vKxviMcZZ" name="Page-1">
+    <mxGraphModel dx="776" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="59U70ZSlorFGTN7gCVxI-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="310" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="59U70ZSlorFGTN7gCVxI-1" value="ルート&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="59U70ZSlorFGTN7gCVxI-2" value="コントローラー&lt;br&gt;・users&lt;br&gt;・lessons&lt;br&gt;・&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="59U70ZSlorFGTN7gCVxI-3" value="モデル&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="59U70ZSlorFGTN7gCVxI-4" value="ビュー&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="59U70ZSlorFGTN7gCVxI-6" value="データベース&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="310" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="59U70ZSlorFGTN7gCVxI-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;users&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="60" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="59U70ZSlorFGTN7gCVxI-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;lessons&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="60" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="59U70ZSlorFGTN7gCVxI-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;comments&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
