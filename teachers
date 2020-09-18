@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T00:07:50.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="UH3V-aN_pL2lQxQt647G" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-18T00:21:18.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="6RBOxLg0lJjubL1IWZk_" version="13.7.3" type="github" pages="2">
   <diagram id="7jE6bnivzq-ySj-mVqJ2" name="Page-1">
     <mxGraphModel dx="729" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="5FmvUHDsJy4-6J7Kp5uU-2" value="ルート&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="110" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5FmvUHDsJy4-6J7Kp5uU-3" value="コントローラー&lt;br&gt;・users&lt;br&gt;・lessons&lt;br&gt;・&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5FmvUHDsJy4-6J7Kp5uU-3" value="コントローラー&lt;br&gt;・users&lt;br&gt;・lessons&lt;br&gt;・likes&lt;br&gt;・comments&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="110" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5FmvUHDsJy4-6J7Kp5uU-4" value="モデル&lt;br&gt;・User&lt;br&gt;・Lesson&lt;br&gt;・Like&lt;br&gt;・Comment&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
